@@ -1,4 +1,4 @@
-# ML_Profit_prediction_model
+# Profit_prediction_model of A Company by Multiple linear regression model
 Multiple linear regression model for profit prediction 
 ## Finding and analysis
 ## Number of states = 3 
